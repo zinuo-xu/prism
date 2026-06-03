@@ -7,3 +7,5 @@
 # refactor: replace magic numbers with named constants (incremental change 4)
 
 # feat: implement dry-run mode for safer testing (incremental change 5)
+
+# fix: handle unicode characters in input correctly (incremental change 6)
