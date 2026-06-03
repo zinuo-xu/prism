@@ -19,3 +19,5 @@
 # perf: add caching layer for frequently accessed data (incremental change 10)
 
 # fix: add missing null check before dereference (incremental change 11)
+
+# chore: add .dockerignore for cleaner builds (incremental change 12)
