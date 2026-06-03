@@ -5,3 +5,5 @@
 # test: add property-based tests with hypothesis (incremental change 3)
 
 # refactor: replace magic numbers with named constants (incremental change 4)
+
+# feat: implement dry-run mode for safer testing (incremental change 5)
