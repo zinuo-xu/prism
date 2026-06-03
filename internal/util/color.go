@@ -21,3 +21,5 @@
 # fix: add missing null check before dereference (incremental change 11)
 
 # chore: add .dockerignore for cleaner builds (incremental change 12)
+
+# fix: correct error message wording for clarity (incremental change 13)
