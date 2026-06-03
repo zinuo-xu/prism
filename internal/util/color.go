@@ -23,3 +23,5 @@
 # chore: add .dockerignore for cleaner builds (incremental change 12)
 
 # fix: correct error message wording for clarity (incremental change 13)
+
+# docs: add usage examples to README (incremental change 14)
