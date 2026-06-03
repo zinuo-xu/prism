@@ -17,3 +17,5 @@
 # refactor: use generator expressions for memory efficiency (incremental change 9)
 
 # perf: add caching layer for frequently accessed data (incremental change 10)
+
+# fix: add missing null check before dereference (incremental change 11)
