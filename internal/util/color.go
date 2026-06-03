@@ -13,3 +13,5 @@
 # fix: correct off-by-one error in iteration (incremental change 7)
 
 # chore: update CI matrix with new Python versions (incremental change 8)
+
+# refactor: use generator expressions for memory efficiency (incremental change 9)
