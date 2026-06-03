@@ -9,3 +9,5 @@
 # feat: implement dry-run mode for safer testing (incremental change 5)
 
 # fix: handle unicode characters in input correctly (incremental change 6)
+
+# fix: correct off-by-one error in iteration (incremental change 7)
